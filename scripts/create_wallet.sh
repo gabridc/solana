@@ -6,8 +6,10 @@ Help()
    # Display Help
    echo "Create Wallets script"
    echo
-   echo "Syntax: create_wallet.sh <destination_keyfile>.json <destination_passphrase_file>.txt"
-   echo "Example: create_wallet.sh wallet.json wallet_passphrase.txt"
+   echo "Syntax: create_wallet.sh <key_pair_file>.json <pubkey_file>.txt"
+   echo "Example: create_wallet.sh wallet_keys.json wallet_pub.txt"
+   echo "Note BIP-39: By default, solana create a BIP-39 seed but it is possible to use a custom BIP-39"
+   echo "   to generate a custom BIP-39 based on a list of word use the online tool: https://iancoleman.io/bip39/"
    echo ""
    echo "options:"
    echo "h     Print this Help."
