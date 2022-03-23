@@ -1,2 +1,2 @@
-cd /solana-files/examples/example-helloworld/src/program-c/
+cd /root/solana-repo/examples/example-helloworld/src/program-c/
 make

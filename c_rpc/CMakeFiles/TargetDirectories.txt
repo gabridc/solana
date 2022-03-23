@@ -1,0 +1,4 @@
+/home/gabridc/Repositorio/solana/c_rpc/CMakeFiles/edit_cache.dir
+/home/gabridc/Repositorio/solana/c_rpc/CMakeFiles/rebuild_cache.dir
+/home/gabridc/Repositorio/solana/c_rpc/CMakeFiles/Hello.dir
+/home/gabridc/Repositorio/solana/c_rpc/CMakeFiles/Hello_autogen.dir

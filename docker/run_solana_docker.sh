@@ -8,4 +8,4 @@ git clone https://github.com/solana-labs/example-helloworld.git
 fi
 
 cd ../
-sudo docker run --mount type=bind,source=${REPOSITORY_PATH},target=/root/solana-repo -i -t solana-hello-deployed /bin/bash
+sudo docker run --name solana-deployed --mount type=bind,source=${REPOSITORY_PATH},target=/root/solana-repo -i -t solana-hello-deployed /bin/bash

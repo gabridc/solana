@@ -1,0 +1,4 @@
+/home/gabridc/clion-2021.1.1/bin/cmake/linux/bin/cmake -G "CodeBlocks - Unix Makefiles" /home/gabridc/Repositorio/solana/c_rpc
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/gabridc/Repositorio/solana/c_rpc
