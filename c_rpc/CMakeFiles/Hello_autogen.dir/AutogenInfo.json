@@ -118,9 +118,54 @@
 	"HEADERS" : 
 	[
 		[
+			"/home/gabridc/Repositorio/solana/c_rpc/Base58.h",
+			"MU",
+			"EWIEGA46WW/moc_Base58.cpp"
+		],
+		[
 			"/home/gabridc/Repositorio/solana/c_rpc/Hello.h",
 			"MU",
 			"EWIEGA46WW/moc_Hello.cpp"
+		],
+		[
+			"/home/gabridc/Repositorio/solana/c_rpc/Quicksort.h",
+			"MU",
+			"EWIEGA46WW/moc_Quicksort.cpp"
+		],
+		[
+			"/home/gabridc/Repositorio/solana/c_rpc/ed25519/ed25519.h",
+			"MU",
+			"ID5UGIRJXK/moc_ed25519.cpp"
+		],
+		[
+			"/home/gabridc/Repositorio/solana/c_rpc/ed25519/fe.h",
+			"MU",
+			"ID5UGIRJXK/moc_fe.cpp"
+		],
+		[
+			"/home/gabridc/Repositorio/solana/c_rpc/ed25519/fixedint.h",
+			"MU",
+			"ID5UGIRJXK/moc_fixedint.cpp"
+		],
+		[
+			"/home/gabridc/Repositorio/solana/c_rpc/ed25519/ge.h",
+			"MU",
+			"ID5UGIRJXK/moc_ge.cpp"
+		],
+		[
+			"/home/gabridc/Repositorio/solana/c_rpc/ed25519/precomp_data.h",
+			"MU",
+			"ID5UGIRJXK/moc_precomp_data.cpp"
+		],
+		[
+			"/home/gabridc/Repositorio/solana/c_rpc/ed25519/sc.h",
+			"MU",
+			"ID5UGIRJXK/moc_sc.cpp"
+		],
+		[
+			"/home/gabridc/Repositorio/solana/c_rpc/ed25519/sha512.h",
+			"MU",
+			"ID5UGIRJXK/moc_sha512.cpp"
 		],
 		[
 			"/home/gabridc/Repositorio/solana/c_rpc/solanaRpc.h",
@@ -153,6 +198,7 @@
 	[
 		"/home/gabridc/Repositorio/solana/c_rpc/D:/Qt/5.15.2/mingw81_64/include",
 		"/home/gabridc/Repositorio/solana/c_rpc/D:/Qt/5.15.2/mingw81_64/include/QtWidgets",
+		"/home/gabridc/Repositorio/solana/c_rpc/ed25519",
 		"/home/gabridc/Repositorio/solana/c_rpc",
 		"/home/gabridc/Qt/5.15.2/gcc_64/include",
 		"/home/gabridc/Qt/5.15.2/gcc_64/include/QtQuick",
@@ -196,6 +242,17 @@
 	"SOURCES" : 
 	[
 		[ "/home/gabridc/Repositorio/solana/c_rpc/Hello.cpp", "MU" ],
+		[ "/home/gabridc/Repositorio/solana/c_rpc/Quicksort.cpp", "MU" ],
+		[ "/home/gabridc/Repositorio/solana/c_rpc/ed25519/add_scalar.c", "MU" ],
+		[ "/home/gabridc/Repositorio/solana/c_rpc/ed25519/fe.c", "MU" ],
+		[ "/home/gabridc/Repositorio/solana/c_rpc/ed25519/ge.c", "MU" ],
+		[ "/home/gabridc/Repositorio/solana/c_rpc/ed25519/key_exchange.c", "MU" ],
+		[ "/home/gabridc/Repositorio/solana/c_rpc/ed25519/keypair.c", "MU" ],
+		[ "/home/gabridc/Repositorio/solana/c_rpc/ed25519/sc.c", "MU" ],
+		[ "/home/gabridc/Repositorio/solana/c_rpc/ed25519/seed.c", "MU" ],
+		[ "/home/gabridc/Repositorio/solana/c_rpc/ed25519/sha512.c", "MU" ],
+		[ "/home/gabridc/Repositorio/solana/c_rpc/ed25519/sign.c", "MU" ],
+		[ "/home/gabridc/Repositorio/solana/c_rpc/ed25519/verify.c", "MU" ],
 		[ "/home/gabridc/Repositorio/solana/c_rpc/main.cpp", "MU" ],
 		[ "/home/gabridc/Repositorio/solana/c_rpc/solanaRpc.cpp", "MU" ]
 	],

@@ -1,5 +1,6 @@
 /home/gabridc/Repositorio/solana/c_rpc/Hello_autogen/EWIEGA46WW/moc_solanaRpc.cpp: /home/gabridc/Repositorio/solana/c_rpc/solanaRpc.h \
   /home/gabridc/Repositorio/solana/c_rpc/Hello_autogen/moc_predefs.h \
+  /home/gabridc/Qt/5.15.2/gcc_64/include/QtCore/QByteArray \
   /home/gabridc/Qt/5.15.2/gcc_64/include/QtCore/QJsonArray \
   /home/gabridc/Qt/5.15.2/gcc_64/include/QtCore/QJsonDocument \
   /home/gabridc/Qt/5.15.2/gcc_64/include/QtCore/QJsonObject \
@@ -206,6 +207,7 @@
   /usr/include/c++/10/type_traits \
   /usr/include/c++/10/typeinfo \
   /usr/include/c++/10/unordered_map \
+  /usr/include/c++/10/unordered_set \
   /usr/include/c++/10/utility \
   /usr/include/c++/10/vector \
   /usr/include/ctype.h \

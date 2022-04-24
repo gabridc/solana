@@ -55,6 +55,7 @@
 					<Add directory="/home/gabridc/Repositorio/solana/c_rpc/Hello_autogen/include"/>
 					<Add directory="/home/gabridc/Repositorio/solana/c_rpc/D:/Qt/5.15.2/mingw81_64/include"/>
 					<Add directory="/home/gabridc/Repositorio/solana/c_rpc/D:/Qt/5.15.2/mingw81_64/include/QtWidgets"/>
+					<Add directory="/home/gabridc/Repositorio/solana/c_rpc/ed25519"/>
 					<Add directory="/home/gabridc/Repositorio/solana/c_rpc/."/>
 					<Add directory="/home/gabridc/Qt/5.15.2/gcc_64/include"/>
 					<Add directory="/home/gabridc/Qt/5.15.2/gcc_64/include/QtQuick"/>
@@ -91,6 +92,7 @@
 					<Add directory="/home/gabridc/Repositorio/solana/c_rpc/Hello_autogen/include"/>
 					<Add directory="/home/gabridc/Repositorio/solana/c_rpc/D:/Qt/5.15.2/mingw81_64/include"/>
 					<Add directory="/home/gabridc/Repositorio/solana/c_rpc/D:/Qt/5.15.2/mingw81_64/include/QtWidgets"/>
+					<Add directory="/home/gabridc/Repositorio/solana/c_rpc/ed25519"/>
 					<Add directory="/home/gabridc/Repositorio/solana/c_rpc/."/>
 					<Add directory="/home/gabridc/Qt/5.15.2/gcc_64/include"/>
 					<Add directory="/home/gabridc/Qt/5.15.2/gcc_64/include/QtQuick"/>
@@ -120,6 +122,9 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/Base58.h">
+			<Option target="Hello"/>
+		</Unit>
 		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/Hello.cpp">
 			<Option target="Hello"/>
 		</Unit>
@@ -127,6 +132,63 @@
 			<Option target="Hello"/>
 		</Unit>
 		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/Hello_autogen/mocs_compilation.cpp">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/Quicksort.cpp">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/Quicksort.h">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/add_scalar.c">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/ed25519.h">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/fe.c">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/fe.h">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/fixedint.h">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/ge.c">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/ge.h">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/key_exchange.c">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/keypair.c">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/precomp_data.h">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/sc.c">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/sc.h">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/seed.c">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/sha512.c">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/sha512.h">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/sign.c">
+			<Option target="Hello"/>
+		</Unit>
+		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/ed25519/verify.c">
 			<Option target="Hello"/>
 		</Unit>
 		<Unit filename="/home/gabridc/Repositorio/solana/c_rpc/main.cpp">

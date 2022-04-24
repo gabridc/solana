@@ -64,6 +64,7 @@ find_package(Qt5 REQUIRED COMPONENTS Qml Quick Widgets)
 
 include_directories(D:/Qt/5.15.2/mingw81_64/include/)
 include_directories(D:/Qt/5.15.2/mingw81_64/include/QtWidgets)
+include_directories(ed25519)
 include_directories(.)
 
 qt5_add_resources(RESOURCES qml.qrc)
@@ -81,7 +82,27 @@ add_executable(Hello
         Hello.h
         solanaRpc.cpp
         solanaRpc.h
-        ${RESOURCES})
+        ${RESOURCES}
+        Base58.h
+        Quicksort.cpp
+        ed25519/add_scalar.c
+        ed25519/ed25519.h
+        ed25519/fe.c
+        ed25519/fe.h
+        ed25519/fixedint.h
+        ed25519/ge.c
+        ed25519/ge.h
+        ed25519/key_exchange.c
+        ed25519/keypair.c
+        ed25519/precomp_data.h
+        ed25519/sc.c
+        ed25519/sc.h
+        ed25519/seed.c
+        ed25519/sha512.c
+        ed25519/sha512.h
+        ed25519/sign.c
+        ed25519/verify.c
+)
 endif()
 
 if(LINUX)

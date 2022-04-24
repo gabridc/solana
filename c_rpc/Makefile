@@ -209,6 +209,303 @@ Hello_autogen/mocs_compilation.cpp.s:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/Hello_autogen/mocs_compilation.cpp.s
 .PHONY : Hello_autogen/mocs_compilation.cpp.s
 
+Quicksort.o: Quicksort.cpp.o
+
+.PHONY : Quicksort.o
+
+# target to build an object file
+Quicksort.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/Quicksort.cpp.o
+.PHONY : Quicksort.cpp.o
+
+Quicksort.i: Quicksort.cpp.i
+
+.PHONY : Quicksort.i
+
+# target to preprocess a source file
+Quicksort.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/Quicksort.cpp.i
+.PHONY : Quicksort.cpp.i
+
+Quicksort.s: Quicksort.cpp.s
+
+.PHONY : Quicksort.s
+
+# target to generate assembly for a file
+Quicksort.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/Quicksort.cpp.s
+.PHONY : Quicksort.cpp.s
+
+ed25519/add_scalar.o: ed25519/add_scalar.c.o
+
+.PHONY : ed25519/add_scalar.o
+
+# target to build an object file
+ed25519/add_scalar.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/add_scalar.c.o
+.PHONY : ed25519/add_scalar.c.o
+
+ed25519/add_scalar.i: ed25519/add_scalar.c.i
+
+.PHONY : ed25519/add_scalar.i
+
+# target to preprocess a source file
+ed25519/add_scalar.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/add_scalar.c.i
+.PHONY : ed25519/add_scalar.c.i
+
+ed25519/add_scalar.s: ed25519/add_scalar.c.s
+
+.PHONY : ed25519/add_scalar.s
+
+# target to generate assembly for a file
+ed25519/add_scalar.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/add_scalar.c.s
+.PHONY : ed25519/add_scalar.c.s
+
+ed25519/fe.o: ed25519/fe.c.o
+
+.PHONY : ed25519/fe.o
+
+# target to build an object file
+ed25519/fe.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/fe.c.o
+.PHONY : ed25519/fe.c.o
+
+ed25519/fe.i: ed25519/fe.c.i
+
+.PHONY : ed25519/fe.i
+
+# target to preprocess a source file
+ed25519/fe.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/fe.c.i
+.PHONY : ed25519/fe.c.i
+
+ed25519/fe.s: ed25519/fe.c.s
+
+.PHONY : ed25519/fe.s
+
+# target to generate assembly for a file
+ed25519/fe.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/fe.c.s
+.PHONY : ed25519/fe.c.s
+
+ed25519/ge.o: ed25519/ge.c.o
+
+.PHONY : ed25519/ge.o
+
+# target to build an object file
+ed25519/ge.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/ge.c.o
+.PHONY : ed25519/ge.c.o
+
+ed25519/ge.i: ed25519/ge.c.i
+
+.PHONY : ed25519/ge.i
+
+# target to preprocess a source file
+ed25519/ge.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/ge.c.i
+.PHONY : ed25519/ge.c.i
+
+ed25519/ge.s: ed25519/ge.c.s
+
+.PHONY : ed25519/ge.s
+
+# target to generate assembly for a file
+ed25519/ge.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/ge.c.s
+.PHONY : ed25519/ge.c.s
+
+ed25519/key_exchange.o: ed25519/key_exchange.c.o
+
+.PHONY : ed25519/key_exchange.o
+
+# target to build an object file
+ed25519/key_exchange.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/key_exchange.c.o
+.PHONY : ed25519/key_exchange.c.o
+
+ed25519/key_exchange.i: ed25519/key_exchange.c.i
+
+.PHONY : ed25519/key_exchange.i
+
+# target to preprocess a source file
+ed25519/key_exchange.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/key_exchange.c.i
+.PHONY : ed25519/key_exchange.c.i
+
+ed25519/key_exchange.s: ed25519/key_exchange.c.s
+
+.PHONY : ed25519/key_exchange.s
+
+# target to generate assembly for a file
+ed25519/key_exchange.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/key_exchange.c.s
+.PHONY : ed25519/key_exchange.c.s
+
+ed25519/keypair.o: ed25519/keypair.c.o
+
+.PHONY : ed25519/keypair.o
+
+# target to build an object file
+ed25519/keypair.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/keypair.c.o
+.PHONY : ed25519/keypair.c.o
+
+ed25519/keypair.i: ed25519/keypair.c.i
+
+.PHONY : ed25519/keypair.i
+
+# target to preprocess a source file
+ed25519/keypair.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/keypair.c.i
+.PHONY : ed25519/keypair.c.i
+
+ed25519/keypair.s: ed25519/keypair.c.s
+
+.PHONY : ed25519/keypair.s
+
+# target to generate assembly for a file
+ed25519/keypair.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/keypair.c.s
+.PHONY : ed25519/keypair.c.s
+
+ed25519/sc.o: ed25519/sc.c.o
+
+.PHONY : ed25519/sc.o
+
+# target to build an object file
+ed25519/sc.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/sc.c.o
+.PHONY : ed25519/sc.c.o
+
+ed25519/sc.i: ed25519/sc.c.i
+
+.PHONY : ed25519/sc.i
+
+# target to preprocess a source file
+ed25519/sc.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/sc.c.i
+.PHONY : ed25519/sc.c.i
+
+ed25519/sc.s: ed25519/sc.c.s
+
+.PHONY : ed25519/sc.s
+
+# target to generate assembly for a file
+ed25519/sc.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/sc.c.s
+.PHONY : ed25519/sc.c.s
+
+ed25519/seed.o: ed25519/seed.c.o
+
+.PHONY : ed25519/seed.o
+
+# target to build an object file
+ed25519/seed.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/seed.c.o
+.PHONY : ed25519/seed.c.o
+
+ed25519/seed.i: ed25519/seed.c.i
+
+.PHONY : ed25519/seed.i
+
+# target to preprocess a source file
+ed25519/seed.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/seed.c.i
+.PHONY : ed25519/seed.c.i
+
+ed25519/seed.s: ed25519/seed.c.s
+
+.PHONY : ed25519/seed.s
+
+# target to generate assembly for a file
+ed25519/seed.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/seed.c.s
+.PHONY : ed25519/seed.c.s
+
+ed25519/sha512.o: ed25519/sha512.c.o
+
+.PHONY : ed25519/sha512.o
+
+# target to build an object file
+ed25519/sha512.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/sha512.c.o
+.PHONY : ed25519/sha512.c.o
+
+ed25519/sha512.i: ed25519/sha512.c.i
+
+.PHONY : ed25519/sha512.i
+
+# target to preprocess a source file
+ed25519/sha512.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/sha512.c.i
+.PHONY : ed25519/sha512.c.i
+
+ed25519/sha512.s: ed25519/sha512.c.s
+
+.PHONY : ed25519/sha512.s
+
+# target to generate assembly for a file
+ed25519/sha512.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/sha512.c.s
+.PHONY : ed25519/sha512.c.s
+
+ed25519/sign.o: ed25519/sign.c.o
+
+.PHONY : ed25519/sign.o
+
+# target to build an object file
+ed25519/sign.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/sign.c.o
+.PHONY : ed25519/sign.c.o
+
+ed25519/sign.i: ed25519/sign.c.i
+
+.PHONY : ed25519/sign.i
+
+# target to preprocess a source file
+ed25519/sign.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/sign.c.i
+.PHONY : ed25519/sign.c.i
+
+ed25519/sign.s: ed25519/sign.c.s
+
+.PHONY : ed25519/sign.s
+
+# target to generate assembly for a file
+ed25519/sign.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/sign.c.s
+.PHONY : ed25519/sign.c.s
+
+ed25519/verify.o: ed25519/verify.c.o
+
+.PHONY : ed25519/verify.o
+
+# target to build an object file
+ed25519/verify.c.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/verify.c.o
+.PHONY : ed25519/verify.c.o
+
+ed25519/verify.i: ed25519/verify.c.i
+
+.PHONY : ed25519/verify.i
+
+# target to preprocess a source file
+ed25519/verify.c.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/verify.c.i
+.PHONY : ed25519/verify.c.i
+
+ed25519/verify.s: ed25519/verify.c.s
+
+.PHONY : ed25519/verify.s
+
+# target to generate assembly for a file
+ed25519/verify.c.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/Hello.dir/build.make CMakeFiles/Hello.dir/ed25519/verify.c.s
+.PHONY : ed25519/verify.c.s
+
 main.o: main.cpp.o
 
 .PHONY : main.o
@@ -306,6 +603,39 @@ help:
 	@echo "... Hello_autogen/mocs_compilation.o"
 	@echo "... Hello_autogen/mocs_compilation.i"
 	@echo "... Hello_autogen/mocs_compilation.s"
+	@echo "... Quicksort.o"
+	@echo "... Quicksort.i"
+	@echo "... Quicksort.s"
+	@echo "... ed25519/add_scalar.o"
+	@echo "... ed25519/add_scalar.i"
+	@echo "... ed25519/add_scalar.s"
+	@echo "... ed25519/fe.o"
+	@echo "... ed25519/fe.i"
+	@echo "... ed25519/fe.s"
+	@echo "... ed25519/ge.o"
+	@echo "... ed25519/ge.i"
+	@echo "... ed25519/ge.s"
+	@echo "... ed25519/key_exchange.o"
+	@echo "... ed25519/key_exchange.i"
+	@echo "... ed25519/key_exchange.s"
+	@echo "... ed25519/keypair.o"
+	@echo "... ed25519/keypair.i"
+	@echo "... ed25519/keypair.s"
+	@echo "... ed25519/sc.o"
+	@echo "... ed25519/sc.i"
+	@echo "... ed25519/sc.s"
+	@echo "... ed25519/seed.o"
+	@echo "... ed25519/seed.i"
+	@echo "... ed25519/seed.s"
+	@echo "... ed25519/sha512.o"
+	@echo "... ed25519/sha512.i"
+	@echo "... ed25519/sha512.s"
+	@echo "... ed25519/sign.o"
+	@echo "... ed25519/sign.i"
+	@echo "... ed25519/sign.s"
+	@echo "... ed25519/verify.o"
+	@echo "... ed25519/verify.i"
+	@echo "... ed25519/verify.s"
 	@echo "... main.o"
 	@echo "... main.i"
 	@echo "... main.s"
